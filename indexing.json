@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "primebenefithub",
+  "private_key_id": "3433fe0cf34eec30b8e5267015a8225375274b11",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSIk6JU0/vTE/z\nUunG+tnSt53cFijYijPrh266F3s8U/E9dBEJ1kVQ7R2D7QoHqrKpevjce4SedzB7\nZre0hvAKUWU4trkJ/iFu0WNVvnEQx+4SnzHvo5Q5rXVpsKBwcNbHrMG/0zf5Udh6\nV8wg3575F3iNMU89zOdGNO5xRUVwWyimJTXlBd7wprV3H9s42IO3Nziu3p6b235c\n4PdKX/PkM8WWeZ+ia+S1UicD2dABKGjaGc4CdVgvWzMfzmEyINRZqH42SafuAwCR\nETfg3T5MezHRESkqVD39LA3yB73U4nyAtux9dPCt/D4y12G0HdG+O3Ay4Z7GTNLa\nTXZkxqthAgMBAAECggEAA5xz0Y/VNpVO5W1WF6WNcz3VEGhwFMKRQFmwOTH4m/GM\nWoRBW7QrNkgQ4wjCjJ2uGtQCbVWREqEVO/WosAlGnELIVMhtFyMfI3alOJ7Adiud\nZ4QFWWsr+67DrwiKRUxnIIDTRo7kbhwuNnIGT8VQB9NTrsd7Z2I7Uj1MILWySws6\nAuDhNJI0sHwdFU1sj1rGGDHwxDWu4nuIXvU/DOhe6oEj/TM93v8tvpPK1qM0e9Id\nmBDSCFG/aG4iddp7t21L+F7v7m2sRr6uoA0zE/2GmklLNXDmzUt1/jY2N1AYK+Kw\nWi0dGEFNQ96vXHR4YQY9kLcVx4LXyVh7YIweix2QAQKBgQD4Pc7zxQZc5qFsmIkd\n+lwGO4lgUGn5fYgssgrrME1wmD8wPMmMaKLnpuT3BGTvwADLA4TulS6YokDZPAzH\nKzPPhIc+o2o768bYFm/N1qp6lQQ2nLarXfYWxRXysMd2ybTvnX9zk4dKdkLjPFY5\nvi3oypEK2z6FLkNEU9kgUZCFYQKBgQDYs5lZuAbzIsjdCIZKgaKhvrm7A0MDwKN6\nBAahodjRZ1UhvwMx6gwaCT88D5XOsIK6REZRN5G04mOCwAaSfVkC3MP8RAgekuw7\n3D18LlDca/eFsTs9JI71OuGPHfLT3Mh1ykcmxgm3dCQineUJY8EQrt9NSH5hNVOp\n6JfjdgHmAQKBgF9bpt7/ZWVUdtf3dFyeqrD+N9RWr47WSPQaZJVZ1bWV1lgaUbXt\nD/76nmPBPWDXmbZioLLhfafGVDDen232y41AtI88SPfBp32kiMhCWPSDv72Wz5je\nnES86qRygfzAmQ+eqbHlDwhsi18s81Z1Fr+g6LyJ4edZER/zMan3ixOhAoGAOZjK\n2qDiH/+P2cfpQaZhHpJ99Snxxu6NxOGLDazh3w6S/wwxAjROESGCECmoTK53oKCC\n/BVEAgrmHhuB46+zV+JrqQJAEjhE18g7A2WgEmYT/RHVR/QOlzmWOB7iqtMU6NHh\nxXl/naYd8KF8/djouNFyAq2RAa9V1GRA8rEr4gECgYEA9EWTezCczqJ4w5xC7Wp9\nFz2bVf9Q6mBLB9y5djnsE8XRFtHfl75lcpYmN8uvIR2Q4gXXv1oVv2Q41i+Loai5\n4iQgSZD4TDAVhvpJt6e60PuWDkil9SrphLv4AtN6Zv52cSeP3WwQnMvtaaGK4dIK\nhrXheybV0CMf8beyNl39iM4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "primebenefithub@primebenefithub.iam.gserviceaccount.com",
+  "client_id": "105100883118954466119",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/primebenefithub%40primebenefithub.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
